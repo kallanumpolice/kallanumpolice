@@ -1,0 +1,53 @@
+
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: burlywood;
+}
+.box{
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 240px;
+    padding: 30px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+h1{
+    margin-top: 1px;
+} 
+#email{
+    width: 320px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+#otp-inp{
+    width: 220px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+#otp-btn{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+.btn{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+.otpverify{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+.otpverify{
+    display: none;
+}
